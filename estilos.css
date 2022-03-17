@@ -1,17 +1,23 @@
 body
 {
+
     background-color:darkcyan;
+    margin:0px;
 }
 
 #menu
 {
     background-color:darkgrey;
     width: 20%;
+    float: left;
+
 
 }
 
 #cuerpo
 {
     background-color:darkmagenta;
-    width: 
+    width: 80%;
+    float: right;
+
 }
