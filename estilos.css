@@ -14,10 +14,17 @@ body
 
 }
 
+.x 
+{
+    background-color: beige;
+    width: 20%;
+}
+
 #cuerpo
 {
     background-color:darkmagenta;
     width: 80%;
     float: right;
 
+    
 }
