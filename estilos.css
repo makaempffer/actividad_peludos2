@@ -10,14 +10,21 @@ body
     background-color:darkgrey;
     width: 20%;
     float: left;
-
-
 }
 
+a:hover
+{
+    color:darkgrey;
+}
 .menu 
 {
+    padding-left: 10px;
+    list-style: none;
+    text-decoration: none;
+    color: grey;
     background-color: beige;
     width: 20%;
+    height: 100vh;
 }
 
 #cuerpo
