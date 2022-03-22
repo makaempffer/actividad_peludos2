@@ -1,37 +1,32 @@
 body
 {
-
     background-color:darkcyan;
-    margin:0px;
+    margin: 0px;
 }
 
-#menu
-{
-    background-color:darkgrey;
-    width: 20%;
-    float: left;
-}
 
 a:hover
 {
     color:darkgrey;
 }
+.prueba
+{
+    float:right;
+}
+.test
+{
+    float: right;
+    background-color:cyan;
+    width: 80%;
+    height: 25vh;
+}
+
 .menu 
 {
     padding-left: 10px;
-    list-style: none;
     text-decoration: none;
     color: grey;
     background-color: beige;
     width: 20%;
     height: 100vh;
-}
-
-#cuerpo
-{
-    background-color:darkmagenta;
-    width: 80%;
-    float: right;
-
-    
 }
